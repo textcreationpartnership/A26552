@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Agreement and resolution of the ministers of Christ associated within the city of Dublin and province of Leinster for furthering of a real and thorough reformation according to the written word of God</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26552</idno>
+            <idno type="STC">Wing A769</idno>
+            <idno type="STC">ESTC R28191</idno>
+            <idno type="EEBO-CITATION">10445708</idno>
+            <idno type="OCLC">ocm 10445708</idno>
+            <idno type="VID">45061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45061)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1392:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Agreement and resolution of the ministers of Christ associated within the city of Dublin and province of Leinster for furthering of a real and thorough reformation according to the written word of God</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reformation --  Ireland --  Sources.</term>
+               <term>Clergy --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45061:1"/>
+            <p>THE AGREEMENT AND RESOLVTION of the <hi>Ministers</hi> of <hi>CHRIST</hi> Aſſociated within the City of <hi>Dublin,</hi> and Province of <hi>Leinster;</hi> for furthering of a real and thorough <hi>REFORMATION,</hi> According to the written Word of <hi>GOD.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Phil.</hi> 3.15, 16.</bibl>
+               <p>Let us therefore, as many as be perfect, be thus minded: And if in any thing ye be otherwiſe minded, God ſhall reveal even this unto you. Nevertheleſs, whereto we have already attained, let us walk by the <hi>SAME RULE,</hi> let us mind the ſame thing.</p>
+            </q>
+            <q>
+               <bibl>Cecil. Cyprian. de Unit. Eccleſ Cathol. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 10.</bibl>
+               <p>
+                  <hi>Ad Pacis praemium venire non poſsunt, qui pacem Domini Diſcordiae furore ruperunt.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>A</hi> Declaration of the <hi>Elders</hi> &amp;c. at the <hi>Savoy, Octob.</hi> 12. 1658. p. 27. § XXIX.</bibl>
+               <p>Such Reforming Churches as conſiſt of perſons ſound in the faith, and of converſation becoming the Goſpel, ought not to deſpiſe the Communion of each other, ſo far as may conſiſt with their own Principles reſpectively, though they walk not in all things ac<g ref="char:EOLhyphen"/>cording to the ſame Rules of Church-Order.</p>
+            </q>
+            <p>DUBLIN, Printed by <hi>W. Bladen, Anno Dom.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45061:2"/>
+            <pb n="1" facs="tcp:45061:2"/>
+            <head>THE AGREEMENT and Reſolution of the MINISTERS of <hi>CHRIST</hi> VVithin the City of <hi>Dublin,</hi> and Province of LEINSTER, whoſe Names are ſubſcribed, in Order to their entring into, and walking together in, A <hi>Brotherly Aſso<g ref="char:EOLhyphen"/>ciation:</hi> Had the 22. day of <hi>February</hi> 1658. at <hi>Dublin;</hi> for furthering of a <hi>real</hi> and <hi>thorough <hi>Reformation</hi>
+               </hi> of Perſons Families and Con<g ref="char:EOLhyphen"/>gregations, in all matters of Religion, accor<g ref="char:EOLhyphen"/>ding to the written Word of <hi>GOD.</hi>
+            </head>
+            <opener>Whereas it is clearly manifeſt,</opener>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, <hi>That,</hi> All the faithfull Saints and Servants of <hi>JESUS CHRIST</hi> within this Nation, ſhould <hi>ſtrive-together for the Faith of the Gospel</hi>
+               <note n="a" place="margin">Phil. 1.27. Jude <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2 Joh. 9, 10, 11. 2 Tim. 1.13.</note>, The purity of Gods <hi>Worſhip</hi>
+               <note n="b" place="margin">Exod. 20.3, 4, 5, 6. Joh. 4.24. Mal. 3.3, 4. Rev. 14 1 to 6. &amp; 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4.</note>, The inte<g ref="char:EOLhyphen"/>grity of Chriſts <hi>Diſcipline</hi>
+               <note n="c" place="margin">Mat. 28, 18, 19. Iſa. 9.6. Luk. 1.32, 33. with Mat. 18.15. to 21. 1 Cor. 5. 2 Cor. 2.6. to 12.</note>, The regular Ad<g ref="char:EOLhyphen"/>miniſtration of all <hi>Gospel-Ordinances</hi>
+               <note n="d" place="margin">Titus 1.5. 1 Corinth. 11.34. and 14 40 Gal. 6.16</note>, The <hi>Oneneſs</hi> of Gods People in <hi>Heart</hi> and <hi>Way</hi>
+               <note n="e" place="margin">1 Cor. 1.10. Phil. 2.1, 2, 3. Eph 4.1. to 7. Jer. 32.39. Ezek. 11.19. Acts 4.32. &amp; 2.41, 42. Phil. 3.16.</note>, And their Progreſs in all Spirituals unto Perfe<g ref="char:EOLhyphen"/>ction<note n="f" place="margin">2 Pet. 3.18. 2 Theſ. 1.3, 4. Eph. 2.21, 22. &amp; 4.11. to 17. Phil. 3.12, 13, 14, 15.</note>.</p>
+            <p>
+               <pb n="2" facs="tcp:45061:3"/>Secondly, <hi>That,</hi> Not onely the Civil-Magiſtrates in their Place<note n="g" place="margin">Rom. 13.3, 4. Exod. 32.25 to 30. Num. 25.4, 5 Pſal. 101 8 2 King. 18 3, 4, 5, 6. with 2 Chron. 29. &amp; 30. &amp; 31. 2 Kin. 23. with 2 Chr. 34. &amp; 35.</note>: Nor onely Parents, Maſters of Fam lies, and Particular Perſons in their Capacities<note n="h" place="margin">Gen. 18.18, 19. Deut. 6.4. to 10. Pſal. 101. throughout Eph 6.4. Tit. 2.10, 11, 12.</note>; But alſo and eſpecially The <hi>Miniſters of Chriſt</hi> in their ſtations, are peculiarly obliged in Conſcience, According to the Word of God, to endeavor the Redreſs of all ſinful evils and exorbitancies, and the contrary Advancement of Truth, Holineſs, and Righteouſneſs, by the Pure and Ple<g ref="char:EOLhyphen"/>nary Adminiſtration of all Chriſts Ordinances<note n="i" place="margin">Matth. 28.18, 19, 20. Rev. 2.1. &amp;c. 12. &amp;c. 18. &amp;c. and 3.1. &amp;c. 14 &amp;c. 1 Tim. 3 5. 2 Tim. 4.1, 2. Acts 20.28.</note>.</p>
+            <p>Thirdly, <hi>That alſo,</hi> Such Publick and arduous Under<g ref="char:EOLhyphen"/>takings (unto which we humbly acknowledg our great Unworthineſs, Weakneſs and Inſufficiencie<note n="k" place="margin">1 Cor. 3.5 &amp; 2.16 &amp; 4.7</note>) will prove far more facil and ſucceſsful in the Hands of Mi<g ref="char:EOLhyphen"/>niſters <hi>Aſſociated,</hi> than in their ſingle capacity<note n="l" place="margin">Gal. 2.9. Luk. 10.1. Acts 2.1, 2, 3, 4, &amp;c. and 3.1 &amp;c. and 5.29. and 6.2. &amp;c. and 8.14. &amp;c. and 13.1, 2, 3, 4. and 15.6. to 36.</note>
+            </p>
+            <p>Therefore, <q>We <hi>MINISTERS</hi> of JESUS CHRIST in the City of <hi>Dublin</hi> and Province of <hi>Leinster,</hi> ſincerely deſiring to <hi>ſeek the things of Chriſt</hi> before our own affairs<note n="m" place="margin">Phil. 2.20, 21. with 1 Cor. 10.24. &amp; Phil. 2.4.</note>, And preferring the Spiritual Peace of <hi>JERUSALEM,</hi> the City and Church of God, <hi>above the top of our joy</hi>
+                  <note n="n" place="margin">Pſ. 137.5, 6. &amp; 122.6, 7, 8, 9.</note>, Do unanimouſly Reſolve and Agree;</q>
+            </p>
+            <p n="1">I. <hi>To</hi> Decline and Abhorr all Blaſphemy<note n="o" place="margin">Col. 3.8. Exod. 20.7. Matth. 12.31. Mark 7.22. Acts 13.45.</note>, Here<g ref="char:EOLhyphen"/>ſie<note n="p" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Gal. 5.20. Tit. 3.10. 2 Pet. 2.1. Exod. 20.3.</note>, Schiſm<note n="q" place="margin">1 Cor 1.11. &amp; 3.3, 4. Rom. 16.17.</note>, Superſtition<note n="r" place="margin">Exod. 20.4, 5, 6. Acts 17.22. Col. 2.20, 21, 22, 23.</note>, Pride<note n="ſ" place="margin">Mark 7.22. 1 Joh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2.16. Iſa. 28.1, 3. Ezek. 16.49.</note>, Pro<g ref="char:EOLhyphen"/>faneneſs<note n="t" place="margin">1 Tim. 1.9. Jer. 23.15. Heb. 12.16. Ezek. 24.43.</note>, Ungodlineſs<note n="u" place="margin">Tit. 2 12. Rom. 1.18. Jude 15.</note>, Unrighteouſneſs<note n="x" place="margin">Tit 2.12. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> John. 5.17. Rom. 1.18. and 2.8.</note>, In<g ref="char:EOLhyphen"/>temperance<note n="y" place="margin">Rom. 13.12, 13. Eph. 5.18. 1 Cor. 6.9, 10.</note>, and All other the Manifeſt ſinfull fruits of the fleſh<note n="z" place="margin">Gal. 5.19, 20, 21. 1 Corin. 6.9, 10. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim. 3.1, 2, 3, 4. Rom. 1.28, to the end.</note>. As alſo to diſavow, and with all Pru<g ref="char:EOLhyphen"/>dence and faithfulneſs (as we have juſt Occaſion) to
+<pb n="3" facs="tcp:45061:3"/>
+Oppoſe Popery<note n="a" place="margin">2 Theſ. 2.3. to 13. 1 Tim. 4.1. to 6. Rev. 13.11, to the end of the Ch. &amp;c. 17. &amp; 18.</note>, Prelacy<note n="b" place="margin">Luke 22.24. to 28. Matth. 20.24. to 29. Mark 10.41. to 46. 1 Peter 5 3. 3 John 9, 10. <hi>For,</hi> a <hi>Biſhop</hi> and a <hi>Preſbyter</hi> are not two diſtinct Orders one above the other, but are one and the ſame, both 1. According to Scripture-Teſtimonie, compare Acts 20.17. with Verſe 28. and 1 Tim. 3.1, 2. &amp;c. Tit. 1.5. with Verſe 7. And 2. According to the judgment of antient and learned Writers: as <hi>Ambroſe, Theodoret, Hierome. Ambroſe</hi> to this effect ſaith thus; <hi>Primi Preſbyteri appellabantur Epiſcopi, ut rece<g ref="char:EOLhyphen"/>dente uno ſequens ſuccederet, ſed quia coeperant ſequentes Preſbyteri inveniri indigni ad Primatus tenendos, immutata eſt ratio proſpiciente Concilio; ut non Ordo ſed me<g ref="char:EOLhyphen"/>ritum crearet Epiſcopum, multorum ſacerdotum judicio conſtitutum, ne indignus temere uſurparet, &amp; eſſet multis ſcandalum. Ambr.</hi> Com. in cap. 4. ad Epheſ. <hi>Theodoret; Preſbyterum ab Epiſcopo</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>&amp;</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>non d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſerre: Sed qui Presbyter eſt, Epiſ<g ref="char:EOLhyphen"/>copum dici, quatenus in uno aliquo actu, in quo a Presbyterio electus eſt, praeest coetui, quia in Eccleſia nihil</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri debet. Theodor.</hi> lib. 4. de Fab. Haeret. Aerian. <hi>Hierome; Apud veteres iidem Epiſcopi &amp; Presbyteri fuerunt, &amp;c.</hi> Hieronym. Epiſt. ad Oceanum. <hi>Apoſtolus perſpicue docet e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſdem eſſe Preſbyteros &amp; Epiſcopos.</hi> Hier. ad Evagrium. <hi>Idem eſt Preſbyter qui &amp; Epiſcopus; &amp; antequam Diaboli inſtinctu ſtudia in Religione fierent, &amp; diceretu in Populis,</hi> Ego ſum Pauli, Apollo, Cephae, 1 Cor. 1. <hi>Communi Preſbyterorum corſilio Eccleſiae gubernabantur. Poſtquam verò unuſquiſque quos baptizaverat, ſuos eſſe non Chriſti putabat: in toto orbe decretum eſt ut unus de Presbyteris el<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctus caeteris ſuperponeretur, ad quem omnis cura Eccleſiae pertineret, ut ſchiſmatum ſemina tollerentur. — Ut ergo Preſbyteri ſciunt ſe Eccleſiae conſuetudine Epiſcopo ſibi Praepoſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o ſubjectos eſſe: ita Epiſcopi noverint ſe, conſue<g ref="char:EOLhyphen"/>tudine magis quam Dominicae diſpoſitionis veritate, Presbyteris eſſe majores, &amp; in com<g ref="char:EOLhyphen"/>mune debere Eccleſiam regere.</hi> Hier. Com in Ep. ad Titum.</note>, (not onely as it is de<g ref="char:EOLhyphen"/>ſcribed in <hi>The Solemn League and COVENANT</hi>
+               <note n="c" place="margin">Publiſhed by autho<g ref="char:EOLhyphen"/>rity of Parliament <hi>&amp;c. An.</hi> 1643.</note>; but alſo as it is cried up by ſome in theſe days under the ſpecious diſguiſe of <hi>Moderated, Regulated</hi> or <hi>Primitive Epiſcopacy,</hi> And all inventions of Man tending there<g ref="char:EOLhyphen"/>unto), Arminianiſm<note n="d" place="margin">
+                  <hi>Againſt which ſee;</hi> G. Ameſ. Coronis, &amp; Anti<g ref="char:EOLhyphen"/>ſynodalia; D. Twiſs Vindic. Grat. De Scientia media, &amp; contra Corvin. P. Du Moulin Anatom. Armin. Twiſs <hi>and</hi> Davenant <hi>againſt</hi> Hoard, &amp;c.</note>, Socinianiſm<note n="e" place="margin">
+                  <hi>Againſt which ſee;</hi> Antiphotinianiſmus,  per Stegmannum; Vindiciae Evangelica <hi>by D<hi rend="sup">r</hi>
+                  </hi> Owen; H. Grot. de Satisfactione Chriſti; Compendiolum Socinianiſmi Confut. à Clopenburg. Anti-Socinianiſm <hi>by</hi> N. Chewney; <hi>D<hi rend="sup">r</hi>
+                  </hi> Fran. Cheynel<hi>'s Hiſt. of</hi> Socinianiſm, Beckmanni Exercitat. contra Socin.</note>, Antinomia<g ref="char:EOLhyphen"/>niſm<note n="f" place="margin">Againſt which ſee; M<hi rend="sup">r</hi> 
+                  <hi>Anth. Burges</hi> his <hi>Vindic. Legis;</hi> D<hi rend="sup">r</hi> 
+                  <hi>Taylor</hi> of the uſe of the Law; <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>taker</hi> againſt <hi>Saltmarſh.</hi>
+               </note>, Familiſm<note n="g" place="margin">Againſt which ſee; <hi>Beckmanni Exercitat. contra Socin.</hi> M<hi rend="sup">r</hi> 
+                  <hi>Baily</hi>'s Diſluaſive from Errors, <hi>&amp;c.</hi>
+               </note>, Seckeriſm<note n="h" place="margin">Againſt which ſee; M<hi rend="sup">r</hi> 
+                  <hi>Bridg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> his Vindication of Ordinances; M<hi rend="sup">r</hi> 
+                  <hi>Symonds</hi> Vindication, <hi>&amp;c.</hi> Matth. 28.18, 19, 20.</note>, Quakeriſm<note n="i" place="margin">Againſt which ſee; The perfect Phariſee. <hi>&amp;c.</hi> Quakers confuted, by M<hi rend="sup">r</hi> 
+                  <hi>Eaton.</hi>
+               </note>,
+<pb n="4" facs="tcp:45061:4"/>
+Antiſcripturiſm<note n="k" place="margin">
+                  <hi>Againſt w<hi rend="sup">ch</hi> ſee;</hi> Andr. Ri<g ref="char:EOLhyphen"/>vet. Iſagog. ad S. Scriptur.</note>, Eraſtianiſm<note n="l" place="margin">Againſt which ſee; <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Divin. Regim. Eccleſiaſt.</hi> by ſundry Miniſters of Chriſt in the City of <hi>London;</hi> Chap. 9. <hi>Aaron</hi>'s Rod bloſſoming, &amp;c. by M<hi rend="sup">r</hi> 
+                  <hi>George Gilleſpie.</hi>
+               </note>; and what ever elſe is contrary to <hi>the acknowledging of the Truth which is according to Godlineſs</hi>
+               <note n="m" place="margin">Tit. 1.1. 1 Tim. 1.10. 2 Tim. 2.16, 17. Tit. 1.9, 10, 11.</note>.</p>
+            <p n="2">II. <hi>To take heed to our ſelves,</hi> and Familyes<note n="n" place="margin">1 Tim. 4.16. and 3.2, 4, 5.</note>, <hi>Holding Faith and a good Conſcience</hi> in all things with all unblameableneſs<note n="o" place="margin">1 Tim. 1.18, 19. and 3.2. 2 Cor. 6.3. 1 Theſ. 2.10.</note>; That herein we may approve our ſelves <hi>Patterns of good Works, and examples to the Flock</hi>
+               <note n="p" place="margin">Tit. 2.7. 1 Pet. 5.3. Phil. 3.17.</note>: And <hi>in Doctrine ſhewing Incorruptneſs, Gravity, Sincerity, Sound ſpeech that cannot be con<g ref="char:EOLhyphen"/>demned</hi>
+               <note n="q" place="margin">Tit. 2.7, 8.</note>; <hi>Preaching the Word, being inſtant in ſea<g ref="char:EOLhyphen"/>ſon and out of ſeaſon, Reprooving, Rebuking, Exhort<g ref="char:EOLhyphen"/>ing with all Long-ſuffering and Doctrine</hi>
+               <note n="r" place="margin">2 Tim 4.1, 2, 3, 4.</note>; That <hi>in doing this, We may both ſave our ſelves and them that hear us</hi>
+               <note n="ſ" place="margin">1 Tim. 4.16</note>. And if any of us walk otherwiſe, <hi>not to ſuffer Sin one upon another</hi>
+               <note n="t" place="margin">Lev. 19.17. Eph. 5.11.</note>: But with the ſpirit of Meekneſs, Love, and Faithfulneſs, To Adviſe, Admo<g ref="char:EOLhyphen"/>niſh, and Reſtore one another<note n="u" place="margin">Gal. 6.1, 2. Eph. 5.11.</note>; <hi>That the Miniſtry be not blamed</hi> and dishonoured<note n="x" place="margin">2 Cor. 6.3</note>. And We ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o earneſtly mind the things that moſt conduce to the Peace, Unity, and Edification of the Churches<note n="y" place="margin">Rom. 14.19. Eph. 4.1, 2, 3, &amp;c. Phil. 2.1, 2, 3, 4, &amp;c.</note>, That <hi>whereunto We have already attained, We ſhall walk by the ſame Rule, and mind the ſame thing</hi>
+               <note n="z" place="margin">Phil. 3.16.</note>, <hi>both in our</hi> Preaching and practice in the Church-Aſſemblyes: That, ſo far as may be, We may tender Our ſelves, both unto one another and to the Congregations, <hi>of one Heart and of one Way</hi>
+               <note n="a" place="margin">Ezek. 11.19. Jer. 32.39.</note>.</p>
+            <p n="3">III. <hi>To</hi> endeavour the Practiſing of all Chriſtian Dutyes, and Performance of all brotherly Offices of Love reciprocally one to another<note n="b" place="margin">Phil. 4.8. Col. 3.12, 13, 14. Phil. 2.1, 2, 3, 4.</note>: Forbearing all termes or Names of Reproach, All ſharp invectives, Bitter Reflections, and other Occaſions of juſt Provo<g ref="char:EOLhyphen"/>cation and Offence<note n="c" place="margin">Eph. 4.31, 32.</note>; Covering one anothers fayl ngs and infirmityes in Love<note n="d" place="margin">Gal. 6.1, 2.</note>; Modeſtly vindicating one anothers Reputation, wherein we may<note n="e" place="margin">Exod. 20.16. 1 Tim. 5.19.</note>; That un<g ref="char:EOLhyphen"/>feyned <hi>brotherly Love may live and continue</hi> amongſt us<note n="f" place="margin">Heb. 13.1.</note>.</p>
+            <p n="4">
+               <pb n="5" facs="tcp:45061:4"/>IV. <hi>To</hi> give diligence (through the Lords gracious Aſſiſtance) to promote, in every FAMILY under our ſpi<g ref="char:EOLhyphen"/>ritual care and inſpection reſpectively, The Excerciſe of Gods worſhip and Chriſtian Religion in the Courſe of theſe too much neglected <hi>FAMILY-DUTYES; (viz.)</hi> Reading of the Holy Scriptures<note n="g" place="margin">Deut. 6.4. to 10. and 11.18, 19. 2 Tim. 3.14, 15.</note>, Prayer<note n="h" place="margin">Jer. 10.25. Dan. 6.10, 11. Acts 10 2. Luke 9.18.</note>, Singing of Pſalmes<note n="i" place="margin">Mat. 26 20, 30. Col. 3.16 Eph. 5.19. Pſal. 30. title.</note>, Repetition of Sermons<note n="k" place="margin">Deut. 6.4. to 10.</note>, Catechizing<note n="l" place="margin">Prov. 22 6 margin. Exod. 12 26, 27. Gen. 18.19. Eph. 6.4.</note>, Godly Conferences<note n="m" place="margin">Eph. 6.4. Deut. 11.18, 19.</note>, and due Sancti<g ref="char:EOLhyphen"/>fication of the <hi>LORD'S-DAYES</hi>
+               <note n="n" place="margin">Exod. 20.8, 9, 10, 11. Deut. 5.12, 13, 14, 15.</note>: That every Family may be as <hi>A little Church of JESUS CHRIST</hi>
+               <note n="o" place="margin">Rom. 16.5. 1 Cor. 16.19. Col. 4 15. Philem. 2. Gen. 18.19. Joſh. 24.15. Pſal. 101.2, 5, 6, 7.</note>.</p>
+            <p n="5">V. <hi>To</hi> improve our Talents Publickly and privately<note n="p" place="margin">Acts 20.20.</note> (as the good hand of our God ſhall enable us) with all diligence and faithfulneſs from time to time, to ex<g ref="char:EOLhyphen"/>alt and eſtabliſh the right <hi>REFORMATION</hi> and Spiritual Proſperity of all the Congregrations under our reſpective Care and Overſight, in all <hi>the things of Christ</hi>
+               <note n="q" place="margin">Rev. 2. &amp; 3. Chapters, throughout. Mat 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.18, 19. Act. 20.18, 19, 20, 21, 26, 27.</note>. Accounting all ſuch Congregations <hi>True <g ref="char:V">Ʋ</g>ISIBLE CH<g ref="char:V">Ʋ</g>RCHES</hi> of Chriſt, As conſiſt of a ſufficient number of Perſons, who are <hi>viſible Saints,</hi> or <hi>Saints by Calling</hi>
+               <note n="r" place="margin">1 Cor. 1.2. Rom. 1.7. 2 Cor. 1.1. Phil. 1.1. Eph. 1.1. Pſal. 50.5.</note>, Sound in the Faith<note n="ſ" place="margin">2 Tim. 1.13. Eph. 4.12. to 17. Tit. 1.13. Col. 2.18, 19. 1 Tim. 1.19, 20. Tit. 3.10.</note>, and walking together <hi>in the fellowſhip of the Goſpel</hi>
+               <note n="t" place="margin">Phil. 1.5. Acts 2.41, 42, 46, 47. Eph. 4.15, 16. Col. 2.19. Eph. 2.19, 20, 21, 22.</note>, Them and their Children<note n="u" place="margin">Gen. 17.4 7, 8, 10, to 15. Acts 2.38, 39. and 5.14. 2 Cor. 7.14. Acts 15.5, 10. Matth. 28.18, 19. and 19.13, 14. Mark 10.14. Luke 8.15, 16.</note> Now this <hi>REFORMATION</hi> and proſperity of all ſuch re<g ref="char:EOLhyphen"/>ſpective Congregations We ſhall endeavour as follow<g ref="char:EOLhyphen"/>eth, <hi>(viz.)</hi>
+            </p>
+            <p n="1">1 By Catechizing the yonger and weaker ſort (as we may with beſt conveniency) on the <hi>LORDS-DAYES</hi> Publickly in the Principles of the Doctrine of Chriſt<note n="x" place="margin">Heb. 5.12, 13, 14. and 6.1, 2. 1 Cor. 3.1, 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c. Gal. 6.6. Joh. 21.15.</note>,according to the <hi>Shorter</hi> or <hi>Larger Catechiſm,</hi> Ad<g ref="char:EOLhyphen"/>viſed by the <hi>ASSEMBLY</hi> of <hi>DIVINES</hi> (unleſs
+<pb n="6" facs="tcp:45061:5"/>
+ſome particular Brother ſhall think ſome other Cate<g ref="char:EOLhyphen"/>chiſm more convenient for his Congregation.) That ſo <hi>the Fundamentals</hi> of true Chriſtian Religion, by one and the ſame <hi>Form of Sound Words</hi>
+               <note n="y" place="margin">2 Tim. 1.13.</note> throughout the whole City and Province, may be rendred familiar both to young and old, yea to all the members of the Congre<g ref="char:EOLhyphen"/>gations; May be more eaſily Received, Firmly Retein<g ref="char:EOLhyphen"/>ed, and advantagiouſly improved for their ſpiritual be<g ref="char:EOLhyphen"/>nefit.</p>
+            <p n="2">2 <hi>By</hi> encouraging the Elder ſort, even all that have good knowledge and underſtanding in the My<g ref="char:EOLhyphen"/>ſteryes of the Goſpel, together with Our ſelves, <hi>Ex<g ref="char:EOLhyphen"/>plicitly to Profeſs</hi>
+               <note n="z" place="margin">1 Pet. 3.15. Rom. 10.9, 10. Acts 24.14, 15, 16. 1 Tim. 3.15.</note> and declare, as occaſion ſhall re<g ref="char:EOLhyphen"/>quire, in ſome convenient way; 1. <hi>That</hi> they acknow<g ref="char:EOLhyphen"/>ledge and receive all the Holy Scriptures in the Books of the Old and New Teſtament, As inſpired of God, and of infallible Authority, Reſolving (by Gods Grace) to Submit themſelves to be ordered and guided by them, as the perfect Rule of Faith and Life, in all things con<g ref="char:EOLhyphen"/>cerning their Perſons, Families, and the Church of God<note n="a" place="margin">2 Tim. 3.15, 16, 17. 2 Pet. 1.19, 20, 21. Pſal. 19.7. Gal. 6.10. Rom. 15.4.</note>. 2. <hi>That</hi> they ſtill retain that brief, but Ancient <hi>Profeſſion,</hi> or Summe of Chriſtian Faith, called the <hi>APOSTLES CREED</hi>
+               <note n="b" place="margin">
+                  <p>
+                     <hi>The</hi> Apoſtles Creed <hi>is of very antient uſe in the Churches under the</hi> N. Teſtament. Auguſtine <hi>expounds it 7 times,</hi> viz. <hi>1.</hi> De Tempore, Serm. <hi>115.</hi> De traditione Symboli, <hi>p. 849.</hi> Tom. <hi>10</hi> Baſil. <hi>1569. 2.</hi> De Tempore Serm. <hi>129 p. 869</hi> &amp;c. Tom. <hi>10 3.</hi> Et Serm. <hi>125 pag. 872 &amp;c.</hi> ibid. <hi>4.</hi> S rm. <hi>131</hi> De Expoſit. Sym<g ref="char:EOLhyphen"/>boli ad C mpetentes, <hi>p. 887, 888.</hi> Tom. <hi>10. 5.</hi> Et de Temp. Serm. <hi>181,</hi> De Ex<g ref="char:EOLhyphen"/>poſitione Symboli, <hi>p. 989.</hi> Tom. <hi>10, 6.</hi> In Lib. de Fide &amp; Symbolo, <hi>p. 139,</hi> ad <hi>151,</hi> Tom. <hi>3. 7.</hi> In Lib. <hi>4</hi> De Symb. ad Catechumenos, <hi>p. 1094,</hi> ad <hi>1139,</hi> Tom. <hi>9. Others before</hi> Auguſtine <hi>alſo recite and mention it</hi> &amp;c. <hi>As</hi> Origen <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Lib. ad init. Ruffinus Aquileienſis <hi>Preſbyter,</hi> in Expoſit. apud Hieronym. in T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> . <hi>4 p. 101,</hi> ad <hi>116.</hi> Baſil. <hi>1553</hi> Et etiam apud Cyprian. Tom. <hi>3, p. 570. Sect. 20</hi> Preux. <hi>1593.</hi> Tertullian. de V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rginib. velandis <hi>Lib. p. 188</hi> Franeker <hi>1597 Et Lib</hi> adverſus Praxean. de Trinitat. <hi>C. 2 p. 494.</hi> Irenaeus Adverſ. Haereſes, <hi>Lib. 1. Cap. 2. p. 50, 51, 52. Colon. 1596.</hi>
+                  </p>
+                  <p>
+                     <hi>This is called the</hi> APOSTLES CREED, <hi>1</hi> More Conjecturally, <hi>by ſome of the Ancients, who ſay,</hi> It is a Tradition of the Elders; That after Chriſts Aſcen<g ref="char:EOLhyphen"/>ſion, when the Holy-Ghoſt fell upon the Apoſtles, enabling them to ſpeak all manner of Languages, that they might Preach the Goſpel to all Nations, before they departed one from another, to this work, They joyntly agreed upon a Rule of Faith, or Summe of true Doctrine, which they would Preach, and ſo being altogether, and full of the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, they compoſed this Rule of Faith to be given unto Believers. Auguſt. <hi>Serm. 181.</hi> de Tempore, Tom. <hi>10. &amp;</hi> Ruffinus in Expoſit. Symbol. apud Cyprian. <hi>pag. 564. &amp;c</hi> Tom <hi>3. 2</hi> More certainly, <hi>by Modern writers, accounting it The</hi> APOSTLES CREED, <hi>becauſe it is very conſonant unto, and may evidently be confirmed by the</hi> Apoſtles Doctrine, <hi>recorded by them in the</hi> N. Teſtament.</p>
+               </note>; As being agreeable
+<pb n="7" facs="tcp:45061:5"/>
+to the word of God: which Creed they have long ſince Received. 3. <hi>And, That</hi> they receive and hold faſt that excellent <hi>CONFESSION</hi> of <hi>FAITH,</hi> comprized in thirty and three Chapters, and compiled by the <hi>Aſſembly of Divines</hi> for theſe three Nations, As their own confeſſion of Faith in all the ſaid Congre<g ref="char:EOLhyphen"/>gations, (Reſerving onely to ſome of us our liberty of Judgment about a few expreſſions touching Diſcipline laid down in that confeſſion): It being, <hi>A Form of Sound Words</hi> very conſonant to the Holy Scriptures; And of ſpecial uſe, Both for Preſerving of the Purity and Unity of the Faith amongſt us, and for Obviating of both Old and Novel Errors.</p>
+            <p n="3">3. <hi>By</hi> manageing all the Ordinances of Gods Publick Worſhip in the Church-Aſſemblyes, As; 1. Reading of the Holy Scriptures, though Expoſition be not always added<note n="c" place="margin">Deut. 31.9, 10, 11. Neh. 9.3. Acts 13.27. and 15 21. Rev 1.3.</note>; 2. Expounding, or giving the Sence of the Scriptures Read<note n="d" place="margin">Neh 8.1, 2, 3, 4, 8, 13. Luke 4.17. to 22, &amp;c. Acts 8.32. to 36.</note>; 3. Preaching the Word<note n="e" place="margin">2 Tim. 4.1, 2. 1 Cor. 1.17. Luk. 9.2. Eph. 3.8. 1 Tim. 3.2. 2 Tim. 3.16, 17. Tit. 3.9.</note>; 4. Catechizing in the Principles of the Doctrine of Chriſt<note n="f" place="margin">Heb. 5.12, 13, 14. and 6.1, 2. 1 Cor. 3.1, 2. Gal. 6.6. Joh 21.15.</note>; 5. Prayer<note n="g" place="margin">Acts 6 2, 4. and 20.36. 1 Tim. 2.1, 2, 3. Jam. 5.14, 15. 1 Cor 11 4, 5.</note>; 6. Singing of Pſalmes<note n="h" place="margin">Matth. 26.20, 30 Col. 3.16. Eph. 5.19 (1 Cor. 11.4, 5 <hi>Propheſying,</hi> by ſome is interpreted to intend <hi>Singing of Pſalms;</hi> compare 1 Chron. 25 1, 2, 3) 1 Cor. 14.15.</note>; 7. Adminiſtration of Baptiſme, and of the Lords Supper<note n="i" place="margin">Matth. 28 18 19 Acts 2.38, 39 and 8.36, 37, 38, 39. and 10.47, 48. and 16.30, 31, 32, 33 1 Cor. 1.16 Col 2 11, 12. Rom. 4 11, 12. 1 Cor. 11 17. to the end of the Chap. and 10.15, 16, 17. Acts 20.7. and 2 41.42.</note>; 8 And Bleſsing of the People in the name of the <hi>LORD</hi>
+               <note n="k" place="margin">Numb. 6.23, 24, 25, 26. and Deut. 10.8. compared with Rev. 1.4, 5. 2. Cor. 13.14. Eph. 1.2.</note>; As neer as poſsibly we can to the unerring Standard of Gods Word<note n="l" place="margin">2 Tim. 3.16, 17. 1 Cor. 11.23.</note>. <hi>Baptizing</hi>
+               <pb n="8" facs="tcp:45061:6"/>
+the Children<note n="m" place="margin">Compare Gen. 7.7. to 15. with Acts 2.38, 39 Col. 2.11, 12. Matth. 28.18, 19 Acts 16 30, 31, 32, 33. 1 Cor. 1.16. Mark 10.13, 14</note> of all ſuch as are Members of true viſible Churches of Chriſt, above deſcribed. And taking an eſpecial heed to the due and Regular Diſpenſation of the <hi>Lords-Supper,</hi> which the Apoſtle ſufficiently inti<g ref="char:EOLhyphen"/>mateth to be a Barred Ordinance<note n="n" place="margin">1 Cor. 11.28, 29, 30. and 10 21.</note>: whence Unbelie<g ref="char:EOLhyphen"/>vers and Unregenerate perſons, ſo remaining, can reap no ſaving Benefit, but <hi>Judgment to themſelves</hi>
+               <note n="o" place="margin">1 Cor. 10.1. to 12. and 11.27, 28, 29, 30.</note>; And whereunto Perſons groſſly Ignorant and Scanda<g ref="char:EOLhyphen"/>lous, either by cuſtomary or ordinary <hi>Omiſſion</hi> of thoſe known Dutyes of Chriſtianity, Sanctification of the Lords-Dayes, and Religious courſes in Families; Or by <hi>Commiſſion</hi> of any Scandalous Sin, Ought not to be admitted<note n="p" place="margin">1 Cor. 11.27. to the end, compared with Matth. 7.6. and 1 Cor. 5. throughout, and Jude 23. 1 Tim. 5.22.</note>. But onely ſuch <hi>viſible Saints,</hi> as having a competent knowledge of the miſteryes of Chriſtian Religion, and making an Holy profeſsion of Repentance from dead Works, Faith in Chriſt, and Obedience to him, according to the Goſpel-Rule of Repentance, Faith, and Obedience, do (in the Judgment of charity) walk anſwerably<note n="q" place="margin">1 Cor. 11.29, 21, 21. compared with 2 Cor. 2.7.</note>. <hi>And</hi> in order hereunto, We con<g ref="char:EOLhyphen"/>ſent and agree, That the knowledge and converſations of all ſuch as deſire admiſsion to the Lords-Supper be firſt duly enquired into, and found ſuitable to that Or<g ref="char:EOLhyphen"/>dinance<note n="r" place="margin">Compare 1 Cor. 11.29 with Gal 6.6 Matth. 28.29. Compare alſo 1 Cor. 11 27. to the end, with Matth. 7.6. and 1 Cor. 5. throughout, &amp; Jude 23. and 1 Tim. 5 22 and Eph. 5.11. and Acts 9.26. to 32.</note>. <hi>And</hi> if any perſon or perſons after ſuch <hi>Admiſſion</hi> ſhall break out into Scandalous Sin, and thereof be convicted by 2 or 3 witneſſes, or their own confeſsion; That in this caſe, ſuch ſhall by due <hi>Cenſure</hi> be ſecluded from the <hi>Lords-Supper</hi>
+               <note n="ſ" place="margin">Matth. 18.15. to 21. 1 Cor. 5. throughout. Ezek. 22.26. and 44.23. Matt. 7.6</note>: Unleſs the Of<g ref="char:EOLhyphen"/>fence be diſcovered ſo immediately before the Lords-Supper, that the Miniſter diſsatisfyed in conſcience can, for the preſent, onely ſuſpend his own Act. And utterly laying aſide the Antiquated <hi>Service-Book</hi> for the many Evils and Inexpediencyes thereof<note n="t" place="margin">
+                  <hi>See,</hi> The Preface to the <hi>DIRECTORY</hi> for Gods publick Worſhip. <hi>Read alſo,</hi> The Anatomy of the Service-Book.</note>, We ſhall have an eye to the Subſtance, Sence, and Scope of the <hi>DIRECTORY for Gods Publick Worſhip</hi>
+               <note n="u" place="margin">Publiſhed for the uſe and benefit of theſe three Nations, <hi>January,</hi> 3. <hi>Anno Dom.</hi> 1644.</note>.</p>
+            <p n="4">
+               <pb n="9" facs="tcp:45061:6"/>4. By Exciting Chriſtians to the frequent and fruit<g ref="char:EOLhyphen"/>ful Exerciſe of the more <hi>Private COMMUNI<g ref="char:EOLhyphen"/>ON of SAINTS</hi> in all the mutual dutyes there<g ref="char:EOLhyphen"/>of<note n="x" place="margin">Mal. 3.16, 17. Pſal 55.14. Heb. 10.24, 25. and 3.12, 13. Phil. 2.1, 2, 3, 4.</note>; upon all occaſions: And more eſpecially at their Private meetings and conferences, managed in the moſt prudent, orderly, and profitable way<note n="y" place="margin">1 Cor. 14.26, 40.</note>, for their mutual <hi>Edification in Faith and Love,</hi> and <hi>Provocation to all good Works</hi>
+               <note n="z" place="margin">Rom. 14.19. 1 Theſ. 5.11. Jude v. 20. Eph 4.16. Heb. 10.24.</note>.</p>
+            <p n="5">5. <hi>By</hi> Endeavouring to reſtore into all the reſpective Congregations under our ſpiritual charge within this City and Province that <hi>CH<g ref="char:V">Ʋ</g>RCH-GOVERN<g ref="char:EOLhyphen"/>MENT and Diſcipline,</hi> which Jeſus Chriſt hath ap<g ref="char:EOLhyphen"/>pointed in his Holy Scriptures. And herein we de<g ref="char:EOLhyphen"/>clare our conſent and agreement, as followeth;</p>
+            <p n="1">(1.) <hi>That</hi> the Lord Jeſus Chriſt, who is the <hi>Head of the Church,</hi> and is <hi>Faithful in the Houſe of God as</hi> Mo<g ref="char:EOLhyphen"/>ſes <hi>was,</hi> hath declared and Revealed the whole Patern of his Houſe, by ſetting down and leaving upon Re<g ref="char:EOLhyphen"/>cord in the Scriptures, a compleat and perfect Platform of Church-Diſcipline in all the Eſſential parts thereof<note n="a" place="margin">Iſa. 9.6. Mat 28.18, &amp;c. Eph. 5.23. &amp; 1.22, 23. Heb 3.5, 6. Exod. 25 40. 1 Tim 3 14, 15.</note>, Which is to be obſerved and kept inviolably till the ſecond coming and <hi>Appearing of Chriſt</hi>
+               <note n="b" place="margin">1 Tim. 6.13.</note>, without any Additions or Inventions of men<note n="c" place="margin">Matth. 15 9.</note>.</p>
+            <p n="2">(2) <hi>That</hi> the holy Government and Diſcipline, which Chriſt hath appointed in his Church Requireth not one<g ref="char:EOLhyphen"/>ly Chriſtian watchfulneſs over the Walking of Brethren<note n="d" place="margin">Acts 20.28.</note>, but alſo, 1. That ſuch as Sin and go aſtray be <hi>Ad<g ref="char:EOLhyphen"/>moniſhed</hi> and Reprooved<note n="e" place="margin">Gal. 6 1. Mat. 5 23, 24. &amp; 18 15 to 21.</note>; 2. And impenitent Sin<g ref="char:EOLhyphen"/>ners <hi>caſt forth</hi> and <hi>Excommunicated</hi>
+               <note n="f" place="margin">Mat. 18.15, 16, 17 &amp;c. 1 Cor 5. throughout <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Theſ 3.6, 14.</note> 3. Who ought a ſo upon R pentance to be <hi>Reſtored</hi> and Received a<g ref="char:EOLhyphen"/>gain into communion with the Church<note n="g" place="margin">2 Cor. 2 6. to 12 Matth. 18 18 19, 20.</note>.</p>
+            <p n="3">(3.) <hi>That</hi> the End and uſe of Church Di cipline and Cenſures, is, 1. <hi>For</hi> the Reclaiming and Gaining of Offending Bretheren<note n="h" place="margin">Matth. 18.15 16, 17. 1 Cor. 5.5. Tim. 1.20.</note>; 2. <hi>For</hi> the Preventing and Deterring of others from the like Offences<note n="i" place="margin">1 Tim 5.20.</note>; 3. <hi>For Purging out of that Leaven which migh infect the wh le Lump</hi>
+               <note n="k" place="margin">1 Cor. 5.6, 7.8, 13.</note>; 4. <hi>For</hi> vindicating the Honour of Chriſt, and the Holy Profeſſion of the Goſpel<note n="l" place="margin">1 Cor. 5 7<g ref="char:punc">▪</g> 8. Jude ver 23. Matth. 7 6.</note>; And 5. <hi>For</hi>
+               <pb n="10" facs="tcp:45061:7"/>
+Preventing the Wrath of God which might juſtly fall upon the Church, if they ſhould ſuffer his Covenant and the Seals thereof to be Profaned by notorious and obſtinate Offenders<note n="m" place="margin">1 Cor. 11.27, 28, 29, 30, 31, 32. This whole Para<g ref="char:EOLhyphen"/>graph is bor<g ref="char:EOLhyphen"/>rowed from the Aſſembly's Confeſſion of Faith, Chap. 30. § 111.</note>.</p>
+            <p n="4">(4) <hi>That the</hi> Ordinary and ſtanding Officers, which Chriſt hath appointed in his Church, for the Edifying and perfecting of his Body, are; <hi>Paſtors</hi> and <hi>Teachers</hi>
+               <note n="n" place="margin">Eph. 4.11. Rom. 12.7, 8.</note>, <hi>Ruling-Elders</hi>
+               <note n="o" place="margin">Rom. 12.8. 1 Cor. 12.28. 1 Tim. 5.17.</note> and <hi>Deacons</hi>
+               <note n="p" place="margin">Acts 6 1. to 7. Phil. 1.1. 1 Tim. 3.8 to 13</note>
+            </p>
+            <p n="5">(5.) <hi>That</hi> the Work and Duty of the <hi>Paſtor</hi> and <hi>Teach<g ref="char:EOLhyphen"/>er,</hi> is; <hi>To</hi> attend upon the <hi>Miniſtry of the Word and Prayer</hi>
+               <note n="q" place="margin">Acts 6.1, 2.</note>, <hi>To</hi> Preach the Goſpel<note n="r" place="margin">1 Cor. 1.17. 2 Tim. 4. 1, 2. Tit: 2.7, 8.</note>. <hi>To</hi> Teach and to Exhort<note n="ſ" place="margin">Rom. 12.6, 7, 8. Matth. 28.19, 20 1 Tim. 4 11 2 Tim. 4.2.</note>, and thence they are called Miniſters of the Goſpel<note n="t" place="margin">Rom 15.16. 2 Cor. 3.6.</note>; And <hi>To</hi> Adminiſter the Seals of the Covenant<note n="u" place="margin">Matth 28.19, 20 Mark 16.15, 16. 1 Cor. 11 23 24 25 with 10 16.</note>; As alſo <hi>To</hi> Rule the Flock <hi>over which the Holy-Ghoſt hath made them Overſeers</hi>
+               <note n="x" place="margin">1 Tim. 5.17. 1 Theſ. 5.12. Heb. 13.7, 17 Acts 20.28.</note>.</p>
+            <p n="6">(6.) <hi>That</hi> the Work of the <hi>Ruling-Elders</hi> is to joyn with the Paſtor and Teacher in Governing the Church<note n="y" place="margin">Rom 12 7, 8. 1 Cor. 12 28. 1 Tim. 5 17.</note>. The Work of the <hi>Deacons</hi> is, concerning the Temporal good things of the Church, To receive the Church Treaſury, and therewith <hi>to ſerve Tables,</hi> and particularly to Relieve the Poor<note n="z" place="margin">Acts 6.1, 2, 3, 4. Rom. 12.8 1 Cor. 12.28</note>.</p>
+            <p n="7">(7.) <hi>That</hi> theſe Officers are called by Chriſt himſelf<note n="a" place="margin">Heb. 5.14.</note>, though not immediately<note n="b" place="margin">Gal 1.1.</note> But by Men<note n="c" place="margin">Acts 13.1, 2, 3. 1 Tim. 4.14. Acts 14.23 &amp; 6.3, 4, 5, 6.</note>. Neither are any to be choſen and approved, but ſuch as are judg<g ref="char:EOLhyphen"/>ed to be fitted and furniſhed by Chriſt with ſuitable Qualifications for the faithful diſcharge of the Work and Office committed to them<note n="d" place="margin">1 Tim. 3.1. to 14. with 5.22. Tit. 1.5. to 10. Acts 6.3. 1 Rom. 13.1,</note>.</p>
+            <p n="8">(8.) <hi>That</hi> the Solemn admiſſion and Separation of Per<g ref="char:EOLhyphen"/>ſons to the work of the Miniſtry, is to be performed <hi>by the Laying on of the Hands of the Preſbytery with Faſt<g ref="char:EOLhyphen"/>ing and Prayer</hi>
+               <note n="e," place="margin">3. 1 Tim. 4.14. Acts 14.23. &amp; 6.3, 6.</note>. And it ſeems to us moſt fit (where it may conveniently be) that ſuch perſons be <hi>Ordained</hi> in the preſence, and with the conſent of the Congrega<g ref="char:EOLhyphen"/>tion, where they are to Miniſter<note n="f" place="margin">Acts 14.23. Tit. 1.5.</note>.</p>
+            <p n="9">
+               <pb n="11" facs="tcp:45061:7"/>(9.) <hi>That</hi> it's the duty of all the Churches &amp; Miniſters of Chriſt to Aſſiſt, Own, and Strengthen the Hands of each other in the ways of the <hi>LORD</hi>
+               <note n="g" place="margin">Gal. 1.18, 21, 22, 23, 24. and 2 9.</note>, And to <hi>Receive</hi> each other <hi>in the LORD</hi> to Chriſtian and Church-communion<note n="h" place="margin">Rom. 16.1, 2.</note>; And to meet together in <hi>SYNODS</hi> and <hi>Aſſemblyes of the Officers and Dele<g ref="char:EOLhyphen"/>gates of the Churches,</hi> if need require<note n="i" place="margin">Acts 15.1. to 36.</note>: Where they have power to Determine Difficulties and Controver<g ref="char:EOLhyphen"/>ſies according to the word of God<note n="k" place="margin">Acts 16.6. to 36. Eſpecially ſee ver. 24, 28. and 16.4, 5.</note>.</p>
+            <p n="10">(10.) <hi>That</hi> there be many gracious Promiſes of the ſpecial Bleſſing and Preſence of Chriſt in his Ordinances among his People, who walk together, in the Faith, Love, and Order of the Goſpel<note n="l" place="margin">Exod. 20.24. 1 Kin. 8.28, 29, 30. with 9.3. Iſa. 4.5, 6. Matth. 18.18, 19, 20. and 28.19, 20.</note>. And therefore thoſe, <hi>that</hi> pretend to be above Ordinances; Or <hi>that</hi> live without Ordinances, when they have opportunity of Enjoying them; Or <hi>that</hi> pick and chuſe among the Ordinances of Chriſt, (As, to deſire <hi>Baptiſm</hi> for their Children, but never to deſire the <hi>Lords-Supper</hi> for themſelves; Or to deſire the <hi>Sacraments,</hi> but to refuſe and caſt off the <hi>Yoke of Chriſt</hi> in <hi>Church-Diſcipline,</hi>) they do exceedingly wrong their own Souls, and Sin a<g ref="char:EOLhyphen"/>gainſt their own comforts, by depriving themſelves of that ſpecial Bleſſed Preſence and Sweet communion with Chriſt, which is to be had in the communion of Saints<note n="m" place="margin">Song. 1.7, 8. and 4 16. and 5 1. 2 Cor. 6.16, 17. 1 Cor. 10.16, 17.</note>.</p>
+            <p n="6">VI. <hi>To</hi> enter into and walk together in a <hi>Brotherly ASSOCIATION</hi> one with another, <hi>Giving</hi> one to another <hi>the right hands of Fellowſhip,</hi> in a conſtant courſe of Mutual Advice, Encouragement and Aſſiſtance, for the more Effectual accompliſhing of theſe excellent Neceſſary and Difficult things<note n="n" place="margin">Gal. 2.9. Luke 10.1. Acts 2.1, 2, 3, 4, &amp;c. and 3.1. &amp;c. and 5.29. and 6.2. &amp;c. and 8.14. &amp;c. and 13.1, 2, 3, 4. and 15.6. to 36.</note>: That all <hi>our ways in Chriſt</hi> may be for Subſtance the ſame within all theſe Churches<note n="o" place="margin">1 Cor. 4.17. Jer. 32.39.</note>. For a much as the myſtical <hi>Body,</hi> the Church of Chriſt, is but <hi>one</hi>
+               <note n="p" place="margin">1 Cor. 12.12, 13, to the end. Rom. 15.4, 5. Eph. 2.16. and 4.4. Col. 3.15. Song. 6.9.</note>: therefore wee ought to maintain all poſſible oneneſs together, Diſpatching our work, as much as may be, in joynt Union and Communi<g ref="char:EOLhyphen"/>on, in all the Publick Affairs of Chriſtian Religion; Thus <hi>endeavouring to keep the Unity of the Spirit in the Bond of
+<pb n="12" facs="tcp:45061:8"/>
+Peace in that one</hi> Church-Body<note n="q" place="margin">Eph. 4.1. to 6. 1 Cor. 1.10 Phil. 2.1. to 5</note>, Now to this end We conſent and Agree,</p>
+            <p n="1">1. <hi>That</hi> We ſhall diligently frequent certain <hi>Meet<g ref="char:EOLhyphen"/>ings;</hi> More <hi>General,</hi> of the Bretheren in this whole Province; And more <hi>Particular,</hi> of thoſe in ſome Coun<g ref="char:EOLhyphen"/>tyes and parts of this Province, As oft, and in ſuch Places as We ſhall from time to time judge needful and expedient. And We ſhall endeavour ſo to make known the Times and Places of our <hi>Meetings,</hi> that all the God<g ref="char:EOLhyphen"/>ly Brethren of the Miniſtry within the ſaid Precincts may have Opportunity of Convening, and (which we earneſtly deſire) of <hi>Aſſociating</hi> with us.</p>
+            <p n="2">2. <hi>That</hi> We ſhall readily Receive into this Fellow<g ref="char:EOLhyphen"/>ſhip, as Members, All the Brethren within the ſaid <hi>City</hi> and <hi>Province,</hi> who are duely called into the Miniſtry by <hi>Ordination</hi>
+               <note n="r" place="margin">1 Tim. 4 14. and 5.22. Acts 13.1, 2, 3. and 14.23. Titus 1.5.</note>, Are <hi>Sound in Faith</hi>
+               <note n="ſ" place="margin">Tit. 1.9, 10, 11, 12, 13, 14. 2 Tim. 1.13.</note>, Godly, So<g ref="char:EOLhyphen"/>ber and unblameable in Life<note n="t" place="margin">1 Tim. 3 2.3. Tit 1.7, 8.</note>, Walking Religiouſly in their <hi>Families</hi>
+               <note n="u" place="margin">1 Tim 3.4, 5.</note>, Faithfully and induſtriouſly in their Miniſterial Functions<note n="x" place="margin">1 Cor. 4.1, 2. Jer. 23.28. 2 Cor. 2.17. 2 Tim. 4.1, 2. Tit. 2.7, 8.</note>: They firſt tendering to the <hi>Moderator</hi> for the time being, At ſome <hi>General Meeting,</hi> or at ſome <hi>Particular Meeting</hi> according to Direction from the <hi>General, A TESTIMONI<g ref="char:EOLhyphen"/>AL</hi> of Their Soundneſs in the Faith, Blameleſneſs of Life, and Laboriouſneſs in the Miniſtry, under the Hands of two Miniſters of known integrity, eſpecially of thoſe that are <hi>Aſſociated;</hi> And of two or three Godly Chriſtians of the ſame Congregation, or of the vicinity, well known to ſome of the Aſſociated Brethren. And all that ſhall be <hi>Ordained PRESBYTERS</hi> by this <hi>Aſſociation</hi> for any Miniſterial charge within this Pro<g ref="char:EOLhyphen"/>vince, ſhall thereupon be Received as Members of this <hi>Aſſociation:</hi> Both theſe, and the former Sub cribing to this our <hi>Agreement.</hi> Nevertheleſs the <hi>Aſſociated Bre<g ref="char:EOLhyphen"/>thren</hi> ſtill Reſerve to themſelves a Liberty for Admitting any Orthodox Godly Brother, Declaring his in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on to be <hi>Regularly Ordained</hi> aſſoon as may be, to joyn with Us in Our Aſſociation as farre as he is capable.</p>
+            <p n="3">3. <hi>That</hi> at Our firſt <hi>General Meeting</hi> We ſhall chooſe
+<pb n="13" facs="tcp:45061:8"/>
+one of Our number to be <hi>MODERATOR;</hi> for, Propounding of Matters Taking of Suffrages. Prevent<g ref="char:EOLhyphen"/>ing of Diſorders, and Managing all Diſcoures and con<g ref="char:EOLhyphen"/>ferences with due Gravity, Decency, Order, and to the utmoſt Edification<note n="y" place="margin">1 Cor. 14.26, 40. Tit. 2.7, 8.</note>: Who ſhall ſtill begin and con<g ref="char:EOLhyphen"/>clude Our Tranſactions at every Meeting with <hi>Prayer,</hi> for the <hi>LORD'S</hi> Aſſiſtance, Bleſſing and Accept<g ref="char:EOLhyphen"/>ance<note n="z" place="margin">1 Tim. 2.8. and 4.4.5 1 Theſ. 5.17, 18. Eph 6.18, 19, 20. Acts 6.2.</note>. And at the cloſe of that, and every ſuch <hi>Con<g ref="char:EOLhyphen"/>ference, General</hi> or <hi>Particular,</hi> We ſhall ſtill determine upon the Subject-Matter, Time, Place, and another Mo<g ref="char:EOLhyphen"/>derator for the next Meeting.</p>
+            <p n="4">4. <hi>That</hi> alſo at our firſt <hi>General Meeting</hi> one of the Brethren Aſſociated, which ſhall be deemed fitteſt, ſhall be choſen <hi>Scribe</hi> or <hi>Regiſter.</hi> Who <hi>ſhall</hi> enter this Our Agreement into a Book forthwith, that it may be Sub<g ref="char:EOLhyphen"/>ſcribed; <hi>Shall</hi> carefully File up and keep all the foremen<g ref="char:EOLhyphen"/>tioned <hi>Teſtimonials; Shall</hi> enter all our Reſ lves and De<g ref="char:EOLhyphen"/>terminations; and <hi>Shall</hi> Regiſter all Our Proceedings with all that ſhall preſent themſelves to Us for <hi>Ordination</hi>
+               <note n="a" place="margin">1 Tim. 4.14. and 5.22. Rom. 13.1, 2, 3. Tit. 1 5. Heb. 5 4.</note>, Keeping ſafe their <hi>Teſtimonials,</hi> and Providing all ſuch <hi>Inſtruments in Writing</hi> as are requiſite thereunto: That any of theſe may be produced before the Brethren upon all juſt Occaſions.</p>
+            <p n="5">5. <hi>That</hi> no diſcourſes about <hi>Admiſſion</hi> or <hi>Non-Admiſ<g ref="char:EOLhyphen"/>ſion</hi> of any Miniſter into this Society ſhall be blazed a<g ref="char:EOLhyphen"/>broad by any Brother to the Prejudice of the Aſſociation, or of any Member thereof.</p>
+            <p n="6">6 <hi>Th t</hi> all Diſputes about leſſer Points in difference, held by any Brethren Agreeing in the Main, be wholy declined in all our <hi>Meetings</hi>
+               <note n="b" place="margin">Acts 15.37, 38, 39. Phil. 2.1.2, 3, 4. and 3.16</note>. Vnleſs ſome Brother ſhall Conſcientiouſly deſire ſatisfaction from the Aſſo<g ref="char:EOLhyphen"/>ciation in any ſuch Particular: which ſhall be endea<g ref="char:EOLhyphen"/>voured with all cleerneſs of Argument and ſweetneſs of Spirit<note n="c" place="margin">Acts 15.7. to 22. Eph. 4.1, 2, 3, &amp;c. 1 Pet. 3.8. Phil. 2 1, 2, 3, 4.</note>.</p>
+            <p n="7">7. <hi>That</hi> All uſurpation of Authority, Authoritative coertion, <hi>Domination</hi> or Jurisdiction, and all exerciſe thereof by the Brethren one over another in this Aſſoci<g ref="char:EOLhyphen"/>ation be utterly diſclaimed, abandoned and abhorred<note n="d" place="margin">Mat. 23.11, 12. Mark 9.33. to 38. Luk. 9.46.47, 48. and 22 24. to 28. 1 Pet. 5.3. 3 Joh. v. 9, 10.</note>
+            </p>
+            <p n="8">
+               <pb n="14" facs="tcp:45061:9"/>8. <hi>That</hi> All giving of juſt Offence to thoſe that are in Power and Authority over us in the Commonwealth, by our intermedling beyond the Duty and limits of our calling with civil and Commonwealth-Affairs, be moſt ſtudiouſly avoided in all our Tranſactions<note n="e" place="margin">Matt. 17.27. 1 Cor. 10.32. 2 Cor. 6.3. Acts 24 16. 1 Cor. 7.20.</note>.</p>
+            <p n="9">9. <hi>And finally, That</hi> We ſhall none of us withdraw ourſelves from this Brotherly Fellowſhip, without great and weighty cauſes: Nor ſhall We at any time Neglect or forbear to come to the General or Particular Meetings, which ſhall be from time to time appointed, without very urgent occaſions.</p>
+            <p>And in all theſe things, We whoſe Names are hereun<g ref="char:EOLhyphen"/>to Subſcribed, have Unanimouſly agreed, <hi>To walk by the ſame Rule, and to minde the ſame thing</hi>
+               <note n="f" place="margin">Phil. 3.16.</note>. Beſeeching the <hi>LORD</hi> to lead us by his <hi>Spirit into all truth</hi>
+               <note n="g" place="margin">John 16.13.</note>, That as <hi>Fellow labourers</hi> in the Goſpel of Chriſt We may make a Brotherly improvement of each others Advice and Aſsiſtance, that our <hi>Hearts may be comforted being knit together in Love,</hi> whilſt we are <hi>following the things which make for Peace and wherewith We may Edify one a<g ref="char:EOLhyphen"/>nother in Our moſt Holy Faith</hi>
+               <note n="h" place="margin">1 Theſ. 3.2. Philem. 24. Col. 2.2. Rom. 14.19. Jude, verſ. 20.</note>.</p>
+            <closer>
+               <signed>Conſentimus nos infra-ſcripti.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45061:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
